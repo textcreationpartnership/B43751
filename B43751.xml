@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the state of London-Derry and Enneskelling given by a captain lately come to Leverpool from the fleet in Derry river and from thence sent to a citizen of Dublin now in London.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43751</idno><idno type="EEBO-CITATION">489263247</idno>
+  <idno type="VID">208687</idno>
+  <idno type="EEBO-PROQUEST">2240881204</idno>
+  
+            <idno type="OCLC"> 489263247</idno>
+            <idno type="OCLC">ocn 489263247</idno>
+            <idno type="STC">Wing R22B</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208687)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the state of London-Derry and Enneskelling given by a captain lately come to Leverpool from the fleet in Derry river and from thence sent to a citizen of Dublin now in London.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell, at the Rose and Crown in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIX. [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+                  <note>"Licensed, July 12th. 1689. J.F."</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:208687:1"/>
+            <pb n="1" facs="tcp:208687:2"/>
+            <head>AN ACCOUNT Of the State of LONDON-DERRY and ENNESKELLING, Given by a Captain lately come to <hi>Leverpool</hi> from the FLEET in <hi>DERRY</hi>-River, and from thence sent to a Citizen of <hi>Dublin</hi> now in <hi>London.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>July</hi> 12th. 1689.</date>
+                           </dateline>
+                           <signed>J. F.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="letter">
+               <opener>
+                  <salute>
+                     <hi>Brother</hi> Norman,</salute>
+               </opener>
+               <p>I Doubt not but that at the Exchange there may be various Reports concerning Major General <hi>Kirk</hi> and <hi>Derry,</hi> occasion'd by a Man of War which came into <hi>High-Lake</hi> on <hi>Sunday</hi> Night last; the name of it is the <hi>Antelope,</hi> Captain <hi>Henry Wickham</hi> Commander, carrying 230 Men and 44 Guns; she came from the Fleet on <hi>Friday</hi> last, which lies within three Miles or thereabouts of <hi>Derry.</hi> The Account that is given of the Condition of the Fleet and <hi>Derry,</hi> &amp;c. is this, as I had it from one Captain <hi>Henry Jones,</hi> who went along with the Major General, and has got his Pass for coming back with this Frigat, by reason of his illness, but is to return again with it: He says that the men are very bearty, and that the <hi>Tues<g ref="char:EOLhyphen"/>day</hi> before they came away there came into that Place two Ships of Force from <hi>Milford,</hi> one of 21 Guns and the other of 14. with all sorts of Provision, and that <hi>Derry</hi> holds out bravely; for the <hi>Friday</hi> before they l<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft the place the <hi>Derry</hi> People made a Sally out upon the Besiegers, and they killed, as it is very modestly computed, about 1200 men, and that those of <hi>Enneskelling</hi> had sent out a considerable Party to fetch in Cattle, &amp;c. and in their way they met with a Convoy of K. <hi>James</hi> which were going with Plate and Money to the Army, to the value of 20000. <hi>l. Sterl.</hi> and took it: and he says further, that they are resolved, with Gods Assistance, to venture clear to <hi>Der<g ref="char:EOLhyphen"/>ry;</hi> and he does believe that they are at this time upon their march, for their Resolutions were to begin their march in Eleven Days, some of them being expired before he left the Fleet. This further
+<pb n="2" facs="tcp:208687:3"/>Account is given of the Besiegers, who leaves no Villany unattempted to get <hi>Derry:</hi> They have for seventeen Miles round, nearest to <hi>Der<g ref="char:EOLhyphen"/>ry,</hi> drove all the Protestants, Men, Women and Children before them (which are reckoned to be 7000 at the least) to <hi>Derry</hi> Walls, either to force the Besieged to take them in or let them starve: One of these People so served, had the good hap to get off, as thus, (his Name is <hi>Bonbury</hi> a <hi>Cheshire</hi> Man, and I do be<g ref="char:EOLhyphen"/>lieve is either Father or Uncle to <hi>Bonbury</hi> of St. <hi>John</hi>'s <hi>Dublin</hi>) he having four pounds left, gave it all to a Corporal to convey him and his Wife from the Army, which the Corporal very honestly did seven miles, and then left them, bidding them hide themselves in the Rocks; but he making towards the <hi>Lough</hi> found this Frigat, was ordered to sail on board, where he was taken, and a great many more, as well Women as Children, the Captain himself going into the Water to setch them; and allows every one of them a Seamans Allowance, and takes not a penny for their Passage, but gives Money to some, and takes care for those who are greater Objects of Charity, not to set them ashore till this Town takes some care for them; some of the Men being eighty years old, some Women with Child, one of which was delivered on Board on <hi>Sunday</hi> last. This Gentleman says, That as they were driving along, they were put into <hi>Rapho</hi> Church, and other Churches, as full as ever they could stand: then came three fresh Companies, or Regiments, with their Half-pikes and Skeans to prick them along; and when they came near the Walls, the Besieged sired over the poor People, and did some execution on the Besiegers; for he saw a man's Head shot off, which made the Enemy say, You see they will nor hurt you, what need you be troubled for coming hither, <hi>&amp;c?</hi>
+               </p>
+               <p>
+                  <hi>Kirk</hi> will not land his Men without he has more Assistance, Horse especially, which God grant he may soon have, and that the rest of the Army designed for <hi>Ireland,</hi> may, when ready, light of a very fair Wind; and then I hope, with God's Blessing upon their Endeavours, they may be a means of saving our poor Relations which we have left behind; for whom (since this damnable Strata<g ref="char:EOLhyphen"/>gem of Major General <hi>Mac Carty</hi>) we, and all good Christians have reason to pray for them; and that God of his infinite Mercy would be pleased to save them from the Hands of their Enemies, is, and shall be the daily Prayer of</p>
+               <closer>
+                  <signed>Your Loving Brother, <hi>J. R.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ric. Chiswell,</hi> at the <hi>Rose</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
